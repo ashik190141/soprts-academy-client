@@ -8,11 +8,11 @@ Hosted in Firebase -> (https://simple-firebase-fc930.web.app/)
 
 
 ## Starter Template
-Client Repo -> (https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-ashik190141)
+Client Repo -> (https://github.com/ashik190141/soprts-academy-client)
 
 
 ## Starter Template
-Server Site Repo -> (https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-ashik190141)
+Server Site Repo -> (https://github.com/ashik190141/soprts-academy-server)
 
 ## Packages
 stripe
