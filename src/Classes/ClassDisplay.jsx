@@ -64,7 +64,9 @@ const ClassDisplay = ({ oneClass }) => {
         <div>
             {
                 <div className={`card card-compact w-96 bg-base-100 shadow-xl ${availableSeat ==0 ? 'bg-red-700' : ''}`}>
-                    <figure><img src={classImage} alt="" className="w-[500px]"/></figure>
+                    <figure>
+                        <img src={classImage} alt="" className="w-full h-[300px]" />
+                    </figure>
                     <div className="card-body">
                         <h2 className="text-3xl text-center font-bold mb-4">{className}</h2>
                         <p className="text-xl font-semibold mb-2">{instructorName}</p>
