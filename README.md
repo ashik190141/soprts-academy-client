@@ -13,7 +13,7 @@ Astha Sports Academy
 
 ## Packages
  - stripe
-tanstack query
+ - anstack query
 axios
 firebase
 heroicons
