@@ -12,19 +12,19 @@ Astha Sports Academy
  - Server Site Repo -> (https://github.com/ashik190141/soprts-academy-server)
 
 ## Packages
+ - react
  - stripe
  - anstack query
-axios
-firebase
-heroicons
-reveal
-react-router-dom
-local storage
-sweet alert
-swiper
-daisy ui
-dark and light mode
-tailwind
+ - axios
+ - firebase
+ - heroicons
+ - reveal
+ - react-router-dom
+ - local storage
+ - sweet alert
+ - swiper
+ - daisy ui
+ - tailwind
 
 ### Navigate to the directory
 
