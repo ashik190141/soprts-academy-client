@@ -12,7 +12,7 @@ Astha Sports Academy
  - Server Site Repo -> (https://github.com/ashik190141/soprts-academy-server)
 
 ## Packages
-stripe
+ - stripe
 tanstack query
 axios
 firebase
